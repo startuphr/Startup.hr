@@ -11,20 +11,24 @@ Zajednica
 Prioritet
 * Povećanje broja IT stručnjaka
 > Specifični cilj
-Omogućiti ulazak više novih IT stručnjaka u zajednicu
-Povećanje uspješnosti firmi
-Povećanje uspješnosti startupova
-Povećanje međunarodne vidljivosti zajednice
-Povećanje dostupnosti netehnoloških znanja
-Omogućit prilike za komunikaciju
+> Omogućiti ulazak više novih IT stručnjaka u zajednicu
 
 * Povećanje broja firmi
 > Specifični cilj
+> Povećanje uspješnosti firmi
+
 * Povećanje broja startupova
 > Specifični cilj
+> Povećanje uspješnosti startupova
+
 * Povećanje globalne povezanosti
 > Specifični cilj
+> Povećanje međunarodne vidljivosti zajednice
+
 * Povećanje raznolikosti profesija
 > Specifični cilj
+> Povećanje dostupnosti netehnoloških znanja
+
 * Povećanje unutarnje povezanosti
->
+> Specifični cilj
+> Omogućiti prilike za komunikaciju
