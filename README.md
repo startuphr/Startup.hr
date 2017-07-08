@@ -4,7 +4,7 @@ U ovom repositoriju (skladištu?) se nalazi sve vezano za Startup.hr:
 * Strateški plan Startup.hr 2017-2020
 * Operativni plan Startup.hr 2017-2018
 
-Sve je dostupno i u Google Drive folderu:https://drive.google.com/open?id=0BxyrmqZYYD1CZHZGTGpVRzYtQnM
+Sve je dostupno i u Google Drive folderu: https://drive.google.com/open?id=0BxyrmqZYYD1CZHZGTGpVRzYtQnM
 
 Priključite se slack grupi Startup.hr: https://startuphr.typeform.com/to/FmaQrb
 
