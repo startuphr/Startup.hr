@@ -11,24 +11,24 @@ Specifični ciljevi Startup.hr-a podijeljeni prema strateškim prioritetima zaje
 
 ## Povećanje broja IT stručnjaka
 Specifični cilj:
-*Omogućiti ulazak više novih IT stručnjaka u zajednicu
+Omogućiti ulazak više novih IT stručnjaka u zajednicu
 
 ## Povećanje broja firmi
 Specifični cilj
-> Povećanje uspješnosti firmi
+Povećanje uspješnosti firmi
 
 ## Povećanje broja startupova
-> Specifični cilj
-> Povećanje uspješnosti startupova
+Specifični cilj
+Povećanje uspješnosti startupova
 
 ## Povećanje globalne povezanosti
-> Specifični cilj
-> Povećanje međunarodne vidljivosti zajednice
+Specifični cilj
+Povećanje međunarodne vidljivosti zajednice
 
 ## Povećanje raznolikosti profesija
-> Specifični cilj
-> Povećanje dostupnosti netehnoloških znanja
+Specifični cilj
+Povećanje dostupnosti netehnoloških znanja
 
 ## Povećanje unutarnje povezanosti
-> Specifični cilj
-> Omogućiti prilike za komunikaciju
+Specifični cilj
+Omogućiti prilike za komunikaciju
