@@ -1,5 +1,5 @@
 # Uvod  
-IT industrija je jedan od najdinamičnijih svjetskih gospodarskih sektora. Globalna ulaganja u ovu industriju se udvostruče svakih 15 godina.  
+1. IT industrija je jedan od najdinamičnijih svjetskih gospodarskih sektora. Globalna ulaganja u ovu industriju se udvostruče svakih 15 godina.  
 
 U Splitu se IT industrija ponajprije zahvaljujući osnivanju i djelovanju obrazovnih institucija, prije svega FESB-a, koje su educirale prve IT stručnjake.  
 
