@@ -3,7 +3,7 @@
 ## Vizija
 __“Split, otvoreni grad“__
 
-###Značenje vizije
+### Značenje vizije
 Otvorenost prema razumijevanju kojeg svi dijelimo, predstavlja niz poželjnih kvaliteta jedne zajednice. Ovaj se termin već koristi u imenu prve aktivnosti koja je prerasla u ovaj pokret - Open Coffee susret, kao i u nazivu open source, nesebičnog pokreta koji značajno doprinosi napretku današnjeg svijeta. Kroz ove se susrete, mjesec po mjesec, naša zajednica povezivala i otvarala, te je s vremenom postalo jasno da njezini članovi dijele mnoge ciljeve i vrijednosti. Ova je vizija viđenje nas samih, zajednice poduzetnika i IT profesionalaca, ali i poveznice koja nas spaja, grada Splita, s kojim smo neraskidivo povezani.
 
 Split kao otvoreni grad, za nas predstavlja:
