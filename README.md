@@ -18,4 +18,4 @@ Pratite Startup.hr:
 
 >Youtube: www.youtube.com/channel/UC8lka4Cf-OTBvs7B53C3WpQ  
 
->Instagram: startup_hr>
+>Instagram: startup_hr
