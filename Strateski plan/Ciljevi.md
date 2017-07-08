@@ -7,28 +7,28 @@ Kriteriji odabira su:
 * usklađenost s ciljevima i trenutnim djelatnostima organizacije. 
 
 
-Zajednica
-Prioritet
-* Povećanje broja IT stručnjaka
+Specifični ciljevi Startup.hr-a podijeljeni prema strateškim prioritetima zajednice:
+
+## Povećanje broja IT stručnjaka
 > Specifični cilj
 > Omogućiti ulazak više novih IT stručnjaka u zajednicu
 
-* Povećanje broja firmi
+## Povećanje broja firmi
 > Specifični cilj
 > Povećanje uspješnosti firmi
 
-* Povećanje broja startupova
+## Povećanje broja startupova
 > Specifični cilj
 > Povećanje uspješnosti startupova
 
-* Povećanje globalne povezanosti
+## Povećanje globalne povezanosti
 > Specifični cilj
 > Povećanje međunarodne vidljivosti zajednice
 
-* Povećanje raznolikosti profesija
+## Povećanje raznolikosti profesija
 > Specifični cilj
 > Povećanje dostupnosti netehnoloških znanja
 
-* Povećanje unutarnje povezanosti
+## Povećanje unutarnje povezanosti
 > Specifični cilj
 > Omogućiti prilike za komunikaciju
