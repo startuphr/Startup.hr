@@ -1,8 +1,8 @@
 # Uvod  
 IT industrija je jedan od najdinamičnijih svjetskih gospodarskih sektora. Globalna ulaganja u ovu industriju se udvostruče svakih 15 godina.  
-U Splitu se IT industrija ponajprije zahvaljujući osnivanju i djelovanju obrazovnih institucija, prije svega FESB-a, koje su educirale prve IT stručnjake. 
+U Splitu se IT industrija ponajprije zahvaljujući osnivanju i djelovanju obrazovnih institucija, prije svega FESB-a, koje su educirale prve IT stručnjake.  
 Znatan rast IT industrije u Splitu je posljednjih godina doveo do porasta potreba ali i značaja u lokalnoj zajednici i gospodarstvu.
-Kako bi se zadovoljile neke od tih potreba pokrenute su privatne inicijative kroz koje su se članovi zajednice mogli upoznati, družiti, informirati i sl.
+Kako bi se zadovoljile neke od tih potreba pokrenute su privatne inicijative kroz koje su se članovi zajednice mogli upoznati, družiti, informirati i sl. 
 Rezultat tih aktivnosti je bio proces stvaranja zajednice. 
 Pokrenute su i prve zajedničke inicijative usmjerene na IT zajednicu.
 Djelovanje takvih “grass-roots” inicijativa dovelo je značajnog porasta količine sadržaja za IT zajednicu u Splitu. 
