@@ -1,3 +1,4 @@
+#Uvod
 IT industrija je jedan od najdinamičnijih svjetskih gospodarskih sektora.
 
 Globalna ulaganja u ovu industriju se udvostruče svakih 15 godina.
