@@ -12,9 +12,9 @@ Pratite Startup.hr:
 
 >Web: www.startup.hr  
 
->Facebook: facebook.com/startuphrv  
+>Facebook: www.facebook.com/startuphrv  
 
->Twitter: twitter.com/StartupHR_  
+>Twitter: www.twitter.com/StartupHR_  
 
 >Youtube: www.youtube.com/channel/UC8lka4Cf-OTBvs7B53C3WpQ  
 
