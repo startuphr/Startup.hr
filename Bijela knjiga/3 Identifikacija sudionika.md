@@ -1,5 +1,7 @@
+# Identifikacija sudionika
 Zajednicu čine njeni članovi, odnosno sudionici. 
 Sudionici splitske IT zajednice su sve pravne i fizičke osobe koje su obavljale djelatnost ili aktivnost, po osnovi koje ulaze u određenu skupinu sudionika, na području Splita tijekom posljednjih 6 mjeseci.
+
 Skupine sudionika su razlučene i definirane prema značajnim razlikama i karakteristikama, bez ulaženja u detaljnije razdiobe.
 
 Pojedinci (IT stručnjaci, Drugi stručnjaci, Poduzetnici, Investitori, Voditelji, Volonteri, Mentori, Ambasadori)
