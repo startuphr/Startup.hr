@@ -8,10 +8,18 @@ Pojedinci:
 * IT stručnjaci, 
 * Drugi stručnjaci,
 * Poduzetnici, 
-* Investitori, Voditelji, Volonteri, Mentori, Ambasadori)
-Organizacije (Poduzeća, Startupi, Partneri)
+* Investitori, 
+* Voditelji, 
+* Volonteri, 
+* Mentori, 
+* Ambasadori.
 
-#Definicije sudionika
+Organizacije:
+* Poduzeća, 
+* Startupi, 
+* Partneri.
+
+## Definicije sudionika
 *IT stručnjaci* su osobe koje imaju sposobnost razviti, upravljati i održavati IT sustave i za koje IT poslovi sačinjavaju glavni dio posla.
 *Drugi stručnjaci* su osobe koje rade za, blisko surađuju ili zapošljavaju IT stručnjake.
 *Poduzetnici* su osobe koje su osnivači i/ili suvlasnici poduzeća ili startupa.
@@ -24,7 +32,7 @@ Organizacije (Poduzeća, Startupi, Partneri)
 *Mentori* su osobe koje imaju vrijedna znanja, iskustva i resurse, te žele vratiti zajednici kroz dijeljenje istih mladima, startupovima i drugima bez naknade.
 *Ambasadori* su osobe koje su pripadale jednoj od skupina, ali su se izmjestile van Splita i žele nastaviti doprinositi ciljevima zajednice.
 
-#Definicije ostalih ključnih pojmova
+## Definicije ostalih ključnih pojmova
 *Informatička tehnologija* (IT) je razvoj, istraživanje, provedba, dizajn i upravljanje informatičkim sustavima pogotovo programskom opremom (software) i računalnom sklopovnom podrškom (hardware). 
 *Aktivnosti namijenjene zajednici* su sve aktivnosti čija su ciljana skupina sudionici IT zajednice i koje doprinose ostvarenju ciljeva splitske IT zajednice. Ciljana skupina je grupa osoba na koju se želi utjecati kroz aktivnost.
 *Područje Splita* se odnosi na širi prostor splitskog metropolitanskog područja. Po definiciji prof. Ive Šimunovića, to je prostor između Trogira, Sinja, Omiša i Supetra.
