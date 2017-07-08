@@ -10,7 +10,7 @@ Priključite se slack grupi Startup.hr: https://startuphr.typeform.com/to/FmaQrb
 
 Pratite Startup.hr:  
 
-Web: www.startup.hr  
+>Web: www.startup.hr  
 
 Facebook: facebook.com/startuphrv  
 
@@ -18,4 +18,4 @@ Twitter: twitter.com/StartupHR_
 
 Youtube: www.youtube.com/channel/UC8lka4Cf-OTBvs7B53C3WpQ  
 
-Instagram: startup_hr
+Instagram: startup_hr>
