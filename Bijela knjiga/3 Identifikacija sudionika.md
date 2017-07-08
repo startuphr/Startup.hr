@@ -4,7 +4,11 @@ Sudionici splitske IT zajednice su sve pravne i fizičke osobe koje su obavljale
 
 Skupine sudionika su razlučene i definirane prema značajnim razlikama i karakteristikama, bez ulaženja u detaljnije razdiobe.
 
-Pojedinci (IT stručnjaci, Drugi stručnjaci, Poduzetnici, Investitori, Voditelji, Volonteri, Mentori, Ambasadori)
+Pojedinci:
+* IT stručnjaci, 
+* Drugi stručnjaci,
+* Poduzetnici, 
+* Investitori, Voditelji, Volonteri, Mentori, Ambasadori)
 Organizacije (Poduzeća, Startupi, Partneri)
 
 #Definicije sudionika
