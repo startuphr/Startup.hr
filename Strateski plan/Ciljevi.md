@@ -10,11 +10,11 @@ Kriteriji odabira su:
 Specifični ciljevi Startup.hr-a podijeljeni prema strateškim prioritetima zajednice:
 
 ## Povećanje broja IT stručnjaka
-> Specifični cilj
-> Omogućiti ulazak više novih IT stručnjaka u zajednicu
+Specifični cilj:
+*Omogućiti ulazak više novih IT stručnjaka u zajednicu
 
 ## Povećanje broja firmi
-> Specifični cilj
+Specifični cilj
 > Povećanje uspješnosti firmi
 
 ## Povećanje broja startupova
