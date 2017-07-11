@@ -1,0 +1,1 @@
+Definirat kriterije dobrog pokazatelja
