@@ -6,7 +6,7 @@
 **Finalan** - PZI koji je unesen u glavni dokument  
 **Odgođen** - PZI koji će se tek razmatrati, nije hitno  
 
-##Tip:
+## Tip:
 **Standardni**
 Prijedlog za izmjenu određenog dijela dokumenta.
 
