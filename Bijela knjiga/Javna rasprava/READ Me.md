@@ -16,7 +16,7 @@ Pitanja i odgovori: prijedlozi za pojašnjenje nejasnih dijelova, prijedlozi za 
 **Meta**
 O metodologiji, strukturi i procesu izrade dokumenta.
 
-#Popis PZI:
+# Popis PZI:
 1. Razvit posebne pokazatelje za mjerenje individualnog doprinosa
 2. Ubacit grafički prikaz metodologije pokazatelja i ciljeva
 3. Izdvojit iz skupine Partneri u zasebnu skupinu udruge i neformalna druženja 
