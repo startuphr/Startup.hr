@@ -1,11 +1,11 @@
 PZI: 1
-/Naziv: Posebni pokazatelji
-/Autor: Tomislav Mamić, @tomislavmamic, tomislav.mamic.st@gmail.com
-/Tip: Meta
-/Status: Draft
-/Stvoreno: 12.06.2017.
-/Zahtijeva: Za sad ništa
-/Zamijenjuje: Ništa
+Naziv: Posebni pokazatelji  
+Autor: Tomislav Mamić, @tomislavmamic, tomislav.mamic.st@gmail.com  
+Tip: Meta  
+Status: Draft  
+Stvoreno: 12.06.2017.  
+Zahtijeva: Za sad ništa  
+Zamijenjuje: Ništa
 
 ### Tekst
 Dodat posebne pokazatelje za mjerenje individualnog doprinosa sudionika.
