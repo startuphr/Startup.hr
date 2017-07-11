@@ -1,10 +1,10 @@
 # Prijedlozi za izmjene (PZI)
 
 ## Status PZI
-_Draft_ - PZI koji je na razmatranju
-_Prihvaćen_ - PZI koji je odobren za usvajanje
-_Finalan_ - PZI koji je unesen u glavni dokument
-_Odgođen_ - PZI koji će se tek razmatrati, nije hitno
+_Draft_ - PZI koji je na razmatranju  
+_Prihvaćen_ - PZI koji je odobren za usvajanje  
+_Finalan_ - PZI koji je unesen u glavni dokument  
+_Odgođen_ - PZI koji će se tek razmatrati, nije hitno  
 _Odbijen_ - PZI koji nije prihvaćen
 
 ## PZI template
